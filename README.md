@@ -34,9 +34,11 @@ I'll never do ~~that~~ again
 *italicized* _italics_ *italic_ _Italic*
 __bold__ __Bolded** **Bolder** **Boldest__
 
-      Function = hello(world){
-        console.log(`Hello ${world}`);
-      }
+```
+Function = hello(world) {
+  console.log(`Hello ${world}`);
+}
+```
 
 #Taking care of business: Mastering Markdown and Github Pages
 Github pages is super easy. You create a repository and Github automatically formats and deploys a website for you. It's totally free, and let's you really focus on what's important for your project. Once the page is up, share it with all your friends why don't ya. Fuh'getta abow't tit 🧑‍🍳🤏!
