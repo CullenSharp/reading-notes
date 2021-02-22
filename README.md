@@ -13,4 +13,4 @@ def hellow_World():
 ```
 
 #### External link
-[this is my link(https://youtu.be/ripjDCR17XM)]
+[this is my link](https://youtu.be/ripjDCR17XM)
