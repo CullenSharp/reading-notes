@@ -24,12 +24,14 @@ real | not real
 me   | you
 
 ### To do:
--[x] that
--[ ] this
+- [x] that
+- [ ] this
+- [ ] nothing here
+- [x] done that
 
 I'll never do ~~that~~ again
 
 #Taking care of business: Mastering Markdown and Github Pages
-Github pages is super easy. You create a repository and Github automatically formats and deploys a website for you. It's totally free, and let's you really focus on what's important for your project. Once the page is up, share it with all your friends why don't ya. Fuhgta abou't it 🧑‍🍳🤏!
+Github pages is super easy. You create a repository and Github automatically formats and deploys a website for you. It's totally free, and let's you really focus on what's important for your project. Once the page is up, share it with all your friends why don't ya. Fuh'getta abow't tit 🧑‍🍳🤏!
 
 Markdown is pretty straight forward. I'm not really sure what the difference is between it and HTML; both are mark-up/down languages. I think one is a bit more simple. Basically, you're just formatting some plain text to be displayed, and the syntax is pretty limited(I don't know what I meant by limited). Just that you're not gonna make an entire webpage with it... I think. I don't know there's some really movers and shakers out there; they probably know how to finesse it all. With mark down you just make lists, headers, checklists, links, etc.
