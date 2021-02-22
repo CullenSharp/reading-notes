@@ -37,8 +37,8 @@ __bold__ __Bolded** **Bolder** **Boldest__
 
 ###big ol' quote
 
->
-The past and present wilt—I have fill'd them, emptied them.
+
+>The past and present wilt—I have fill'd them, emptied them.
 And proceed to fill my next fold of the future.
 
 Listener up there! what have you to confide to me?
