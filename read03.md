@@ -1,4 +1,4 @@
-#Terminals and editors (The Coder's Computer)
+# Terminals and editors (The Coder's Computer)
 
 The command terminal is useful as a means for navigating a system. Often it can be used in addition to the GUI. It's much faster for instance. The command line does everything the GUI does, but is text-based. 
 
