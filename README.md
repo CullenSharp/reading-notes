@@ -8,6 +8,10 @@ My name is @CullenSharp2 , welcome to my page 👋👋👋
 * here's another list
 * __item__
 * ~~item~~
+List
+: oops
+: uhoh
+
 #### This is some code on my page:
 ```
 def hellow_World():
