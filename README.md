@@ -76,4 +76,6 @@ Markdown is pretty straight forward. I'm not really sure what the difference is 
 * nope
 > good
 
+[GitHub](https://github.com/)
+
 ### Go to another [world](read02.md) 🧙
