@@ -35,7 +35,7 @@ me   | you
 
 I'll never do ~~that~~ again
 
-*italicized* _italics_ *italic_ _Italic*
+*italicized* _italics_ *italic _Italic*
 __bold__ __Bolded** **Bolder** **Boldest__
 ***Bold and italic*** ___Bold and italic___
 
@@ -68,5 +68,12 @@ Github pages is super easy. You create a repository and Github automatically for
 Markdown is pretty straight forward. I'm not really sure what the difference is between it and HTML; both are mark-up/down languages. I think one is a bit more simple. Basically, you're just formatting some plain text to be displayed, and the syntax is pretty limited(I don't know what I meant by limited). Just that you're not gonna make an entire webpage with it... I think. I don't know there's some really movers and shakers out there; they probably know how to finesse it all. With mark down you just make lists, headers, checklists, links, etc.
 
 `& I do nothing`
+- list
+@ broken
++ oops
+: ouch
+= uhoh
+* nope
+> good
 
 ### Go to another [world](read02.md) 🧙
