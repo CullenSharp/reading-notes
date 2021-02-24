@@ -1,1 +1,75 @@
-# structure web pages with HTML
+# Structure Web Pages With HTML
+
+my notes from reading 04: ch. 1, 17, 8 (2.23.21)
+
+----
+
+HTML is kind of the bones, but it's a markup language, so reeally it just describes the bones. In full, it stands for HyperText Markup Language. It's primary role isn't to look good, or be interactive, but to be the basic structure of the page.
+
+Typically, a page is broken done to create a visual hierarchy. This informs how the user will navigate and use the site.
+
+Let's take a look at a basic html document. We'll use this blog I made earlier today:
+
+```
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Avengers Sucked</title>
+</head>
+<body>
+    <header>
+        <h1>Why Avengers Sucked</h1>
+        <nav>
+            <ul>
+                <li><a href="">temp</a></li>
+                <li><a href="">temp1</a></li>
+                <li><a href="">temp2</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+       <section>
+            <h3>Reason 1</h3>
+            <img src="http://via.placeholder.com/850x250" alt="placeholder">
+            <p>
+            </p>
+        </section> 
+        <section>
+            <h3>Reason 2</h3>
+            <img src="http://via.placeholder.com/850x250" alt="placeholder">
+            <p>
+            </p>
+        </section>
+        <section>
+            <h3>Reason 3</h3>
+            <img src="http://via.placeholder.com/850x250" alt="placeholder">
+            <p>
+            </p>
+        </section>
+    </main>
+    <footer>
+        <nav>
+            <ul>
+                <li>
+                    <a href="">temp</a>
+                </li>
+                <li>
+                    <a href="">temp1</a>
+                </li>
+                <li>
+                    <a href="">temp2</a>
+                </li>
+            </ul>
+        </nav>
+    </footer>
+</body>
+</html>
+```
+
+You can see it begins with a title header. This catchs your attention immediately, and describes the content... hooks you in. Then there's semantic tags to describe the structure itself: footer, nav, main, section, etc.. They don't *do anything* per se, but are useful for someone reading the code and for accessibility.
+
+----
+
+Designing for proper flow and navigation is an important part of the process, and it begins with figuring out who your user is. You can never be sure, but you can build profiles for potential users. These will drive the design as they are the intended target.
