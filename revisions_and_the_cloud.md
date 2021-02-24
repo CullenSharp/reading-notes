@@ -1,3 +1,77 @@
 # Revisions and the Cloud
-my notes for reading 03 (2.23.21)
 
+my notes for reading 03: Git Tutorial (2.23.21)
+
+## Some basic history
+
+Git has been around since 2005. Developed by Linus Torvalds (also the chief architect of the Linux kernel) in response to BitKeeper charging for its DVCS software. Git is an open-source *d*istributed *v*ersion *c*control *s*ystem, and it forms the backbone of Github.
+
+Note: GitHub is not Git. It's not even the only service of its kind either: GitLab, GitBucket, SourceForge.
+
+You install Git to your terminal, and use it to manage repositories (collections of files tracked by Git). In combination with Github, we can use it to manage our remote branches and create local ones. Here are some of the commands you can use:
+
+```
+git config --global user.name "name"
+git config --global user.email "example@email.com"
+```
+
+These two commands are for configuration... I know. One sets your name and the other your email. You'll use these for each commit, so it's important.
+
+```
+git init
+```
+
+This one initializes a Git repository in the working directory. But you can also just clone one from GitHub provided you made one or have access to one.
+
+```
+git clone [https://github.com/test] [destination]
+```
+
+----
+
+## Committing
+
+You use ACP (*A*dd *C*ommit *P*ush) with Git. Here's the basic workflow; clone, or init, a repository, do your edits; commit and commit often, make sure to leave meaningful notes. Push, at the end you add your changes to the remote branch.
+
+Note: when cloning, the remote branch is called 'origin' and the local branch is titled 'master'. This is by default, but they can be changed anytime.
+
+Here's the commands you'll need:
+
+```
+git clone
+git init
+
+git add . 
+
+git commit -m "commit message"
+
+git push 
+```
+
+I almost for gotto mention the add command. It's simple, all it does is add a file or directory to what's being tracked.
+
+----
+
+## Remote in-depth
+
+Git allows you to configure and interact with the remote (what's not local) pretty easily.
+
+```
+git remote -v
+```
+
+The above prints the 'shortname' (origin for instance) of your remote, and the URL. That'll look like this:
+
+```
+remote1 https://github.com/remote1/example (fetch)
+
+remote1 https://github.com/remote1/example (push)
+
+remote2 https://github.com/remote2/example (fetch)
+
+remote2 https://github.com/remote2/example (push)
+
+remote3 https://github.com/remote3/example (fetch)
+
+remote3 https://github.com/remote3/example (push)
+```
