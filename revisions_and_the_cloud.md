@@ -7,7 +7,7 @@ my notes for reading 03: Git Tutorial (2.23.21)
 Git has been around since 2005. Developed by Linus Torvalds (also the chief architect of the Linux kernel) in response to BitKeeper charging for its DVCS software. Git is an open-source *d*istributed *v*ersion *c*control *s*ystem, and it forms the backbone of Github.
 
 Note: GitHub is not Git. It's not even the only service of its kind either: GitLab, GitBucket, SourceForge.
-
+I 
 You install Git to your terminal, and use it to manage repositories (collections of files tracked by Git). In combination with Github, we can use it to manage our remote branches and create local ones. Here are some of the commands you can use:
 
 ```
