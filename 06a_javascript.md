@@ -1,0 +1,44 @@
+# Dynamic web pages with JavaScript
+
+My notes for reading 061: Dynamic web pages with JavaScript (2.24.2020)
+
+----
+
+## basics
+
+Html is the bones, CSS this the skin, and JavaScript is the muscles. Javascript drives the webpage's interactive components. With it you can use it to create login pages, alerts, store variables, do math, and plenty of other surprises.
+
+Javascript is a weird one. Defining variables for one isn't strict; variables aren't required to define their type. 
+
+````js
+
+let imAstring = '4';
+let imAnumber = 4; 
+
+function imWeird(x, y, z) {
+    z = x + y;
+    return z;
+}
+
+imWeird(imAstring, imAnumber, imAnumber)
+//returns "44"
+
+````
+
+You can see from the above line that I never had to define the variable's type. Then an integer became a string when it was added to a string...
+
+----
+
+Javascript can be used as a means of crudely getting user input. Using the prompt method a user is asked to provide a text input. This is returned as a string, even if you use a number. That can be written directly on to the page.
+
+````js
+
+let input = prompt('gimme some input');
+console.log(input);
+console.log(typeof(input));
+
+//returns "45", and "string"
+
+````
+
+To do any math with that number you'd have to convert it from a sting.

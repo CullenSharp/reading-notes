@@ -24,3 +24,5 @@ One of my favorite songs, click it.
 * [structure web pages with HTML](structure_html.md)
 
 * [design pages with CSS](design_pages.md)
+
+* [Dynamic web pages with JavaScript](06a_javascript.md)
