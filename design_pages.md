@@ -10,9 +10,9 @@ CSS is the cosmetics. Cascading style sheets control the looks of your webpage. 
 
 ----
 
-## inheritance 
+## inheritance
 
-One of CSS' primary features is that it has inheritance (rules are passed to the child). In this way, the CSS 'cascades'. For example, on the HTML document you have a <p> within an <section>. That <p> tag is a child of <section>. In CSS, rules applied to the <section> will be applied to the <p> as well.
+One of CSS' primary features is that it has inheritance (rules are passed to the child). In this way, the CSS 'cascades'. For example, on the HTML document you have a 'p' within an 'section'. That 'p' tag is a child of 'section'. In CSS, rules applied to the 'section' will be applied to the 'p' as well.
 
 ```css
 section {
@@ -20,7 +20,7 @@ section {
 }
 ```
 
-If there's nothing to overwrite the preceeding rule, all the text within the <section> will render as azure. Overwriting in CSS is very simple; both rules that come later and are more specific (think global vs local) negate some rules.
+If there's nothing to overwrite the preceeding rule, all the text within the 'section' will render as azure. Overwriting in CSS is very simple; both rules that come later and are more specific (think global vs local) negate some rules.
 
 ````css
 section {
