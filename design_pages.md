@@ -1,0 +1,41 @@
+# Design Webpages with CSS
+
+My notes for reading 05: ch. 10-11 in Duckett (2.24.21)
+
+----
+
+## primer
+
+CSS is the cosmetics. Cascading style sheets control the looks of your webpage. As such, they should be the last one off the boat so to speak. Make everything else (html and js), then... then make the css. It's kind of like desert, at least that's how I feel ❤️.
+
+----
+
+## inheritance 
+
+One of CSS' primary features is that it has inheritance (rules are passed to the child). In this way, the CSS 'cascades'. For example, on the HTML document you have a <p> within an <section>. That <p> tag is a child of <section>. In CSS, rules applied to the <section> will be applied to the <p> as well.
+
+```css
+section {
+    color: azure;
+}
+```
+
+If there's nothing to overwrite the preceeding rule, all the text within the <section> will render as azure. Overwriting in CSS is very simple; both rules that come later and are more specific (think global vs local) negate some rules.
+
+````css
+section {
+    color: azure;
+}
+
+section p {
+    color: black;
+}
+````
+
+Here, for instance, the "section" rule will be negated, because the rule for "p" is both more specific and later in the order of operations.
+
+----
+
+## Best practices
+
+Similar to how you put JavaScript files in their own file, this is best practice for CSS too. You can style elements directly in HTML, but it's not recommended. Doing this protects your files and allows you to use stylesheets accross multiple pages.

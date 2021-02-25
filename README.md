@@ -22,3 +22,5 @@ One of my favorite songs, click it.
 * [the coder's computer](the_coders_computer.md)
 
 * [structure web pages with HTML](structure_html.md)
+
+* [design pages with CSS](design_pages.md)
