@@ -8,8 +8,10 @@ My name is @CullenSharp2 , welcome to my page 👋👋👋.
 I'm currently enrolled at Codefellows for full-stack web development 🔨. I like funny things that make you think 🤔.
 
 
-One of my favorite songs, click it.
 [![Burial - Forgive](https://i.ytimg.com/vi/5OVvJOeUdUs/hqdefault.jpg)](https://youtu.be/5OVvJOeUdUs)
+
+
+One of my favorite songs, click it.
 
 ----
 
@@ -25,4 +27,6 @@ One of my favorite songs, click it.
 
 * [design pages with CSS](design_pages.md)
 
-* [Dynamic web pages with JavaScript](06a_javascript.md)
+* [dynamic web pages with JavaScript](06a_javascript.md)
+
+* [computer architecture and logic](06b.md)
