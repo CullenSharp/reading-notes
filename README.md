@@ -30,3 +30,5 @@ One of my favorite songs, click it.
 * [dynamic web pages with JavaScript](06a_javascript.md)
 
 * [computer architecture and logic](06b.md)
+
+*[Programming with Javascript](read_07.md)
