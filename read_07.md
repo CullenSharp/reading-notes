@@ -1,8 +1,8 @@
-# reading 07
-
-Notes from reading 07: Programming with Javascript (2.25.21)
+# Programming with Javascript
 
 ----
+
+Notes from reading 07: Programming with Javascript (2.25.21)
 
 ## how javascript makes the web interactive
 

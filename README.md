@@ -31,4 +31,4 @@ One of my favorite songs, click it.
 
 * [computer architecture and logic](06b.md)
 
-*[Programming with Javascript](read_07.md)
+* [Programming with Javascript](read_07.md)
