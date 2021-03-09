@@ -19,7 +19,7 @@ One of my favorite songs, click it.
 
 ### Code 201
 
-* 1
+* [Introductory HTML and JavaScript](class-01.md)
 
 * 2
 
