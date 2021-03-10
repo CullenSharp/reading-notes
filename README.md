@@ -21,9 +21,9 @@ One of my favorite songs, click it.
 
 * [Introductory HTML and JavaScript](class-01.md)
 
-* 2
+* [Basics of HTML, CSS & JS](code201-02.md)
 
-* 3
+* [HTML Lists, Control Flow with JS, and the CSS Box Model](code201-03.md)
 
 * 4
 
