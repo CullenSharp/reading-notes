@@ -27,7 +27,7 @@ One of my favorite songs, click it.
 
 * [HTML Links, JS Functions, and Intro to CSS Layout](code201-04.md)
 
-* 5
+* [Images, Color, Text](code201-05.md)
 
 * 6
 
