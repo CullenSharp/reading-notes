@@ -29,7 +29,7 @@ One of my favorite songs, click it.
 
 * [Images, Color, Text](code201-05.md)
 
-* 6
+* [Problem Domain, Objects, and the DOM](code201-06.md)
 
 * 7
 
