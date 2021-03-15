@@ -19,17 +19,17 @@ One of my favorite songs, click it.
 
 ### Code 201
 
-* [Introductory HTML and JavaScript](class-01.md)
+* [Introductory HTML and JavaScript](notes/code201/class-01.md)
 
-* [Basics of HTML, CSS & JS](code201-02.md)
+* [Basics of HTML, CSS & JS](notes/code201/code201-02.md)
 
-* [HTML Lists, Control Flow with JS, and the CSS Box Model](code201-03.md)
+* [HTML Lists, Control Flow with JS, and the CSS Box Model](notes/code201/code201-03.md)
 
-* [HTML Links, JS Functions, and Intro to CSS Layout](code201-04.md)
+* [HTML Links, JS Functions, and Intro to CSS Layout](notes/code201/code201-04.md)
 
-* [Images, Color, Text](code201-05.md)
+* [Images, Color, Text](notes/code201/code201-05.md)
 
-* [Problem Domain, Objects, and the DOM](code201-06.md)
+* [Problem Domain, Objects, and the DOM](notes/code201/code201-06.md)
 
 * 7
 
@@ -51,18 +51,18 @@ One of my favorite songs, click it.
 
 ### Code 102
 
-* [revisions and the cloud](code102-01.md)
+* [revisions and the cloud](notes/code102/code102-01.md)
 
-* [the coder's computer](code102-02.md)
+* [the coder's computer](notes/code102/code102-02.md)
 
-* [structure web pages with HTML](code102-03.md)
+* [structure web pages with HTML](notes/code102/code102-03.md)
 
-* [design pages with CSS](code102-04.md)
+* [design pages with CSS](notes/code102/code102-04.md)
 
-* [dynamic web pages with JavaScript](code102-05.md)
+* [dynamic web pages with JavaScript](notes/code102/code102-05.md)
 
-* [computer architecture and logic](code102-06.md)
+* [computer architecture and logic](notes/code102/code102-06.md)
 
-* [Programming with Javascript](code102-07.md)
+* [Programming with Javascript](notes/code102/code102-07.md)
 
-* [Operators and Loops](code102-08.md)
+* [Operators and Loops](notes/code102/code102-08.md)
