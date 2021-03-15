@@ -51,20 +51,18 @@ One of my favorite songs, click it.
 
 ### Code 102
 
-* Go to another [world](read02.md) 🧙
+* [revisions and the cloud](code102-01.md)
 
-* [revisions and the cloud](revisions_and_the_cloud.md)
+* [the coder's computer](code102-02.md)
 
-* [the coder's computer](the_coders_computer.md)
+* [structure web pages with HTML](code102-03.md)
 
-* [structure web pages with HTML](structure_html.md)
+* [design pages with CSS](code102-04.md)
 
-* [design pages with CSS](design_pages.md)
+* [dynamic web pages with JavaScript](code102-05.md)
 
-* [dynamic web pages with JavaScript](06a_javascript.md)
+* [computer architecture and logic](code102-06.md)
 
-* [computer architecture and logic](06b.md)
+* [Programming with Javascript](code102-07.md)
 
-* [Programming with Javascript](read_07.md)
-
-* [Operators and Loops](08.md);
+* [Operators and Loops](code102-08.md)
