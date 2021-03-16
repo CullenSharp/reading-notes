@@ -31,7 +31,7 @@ One of my favorite songs, click it.
 
 * [Problem Domain, Objects, and the DOM](notes/code201/code201-06.md)
 
-* 7
+* [Object-Oriented Programming, HTML Tables](notes/code201/code201-07.md)
 
 * 8
 
