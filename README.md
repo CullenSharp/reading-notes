@@ -33,7 +33,7 @@ One of my favorite songs, click it.
 
 * [Object-Oriented Programming, HTML Tables](notes/code201/code201-07.md)
 
-* 8
+* [More CSS Layout](notes/code201/code201-08.md)
 
 * 9
 
