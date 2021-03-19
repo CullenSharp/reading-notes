@@ -37,7 +37,7 @@ One of my favorite songs, click it.
 
 * [Lists, Forms, Tables and JS Events](notes/code201/code201-09.md)
 
-* [Debugging](notes/codes201/code201-10.md)
+* [Debugging](notes/code201/code201-10.md)
 
 * 11
 
