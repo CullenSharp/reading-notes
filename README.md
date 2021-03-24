@@ -41,7 +41,7 @@ One of my favorite songs, click it.
 
 * [Audio, Video, Images](notes/code201/code201-11.md)
 
-* 12
+* [Chart.js and Canvas](notes/code201/code201-12.md)
 
 * 13
 
