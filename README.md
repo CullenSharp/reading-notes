@@ -43,7 +43,7 @@ One of my favorite songs, click it.
 
 * [Chart.js and Canvas](notes/code201/code201-12.md)
 
-* 13
+* [Local Storage](notes/code201/code201-13.md)
 
 * 14
 
