@@ -17,6 +17,10 @@ One of my favorite songs, click it.
 
 ## Table of Contents
 
+### Code 301
+
+* [Introduction to React and Components](notes/code301/code301-01.md)
+
 ### Code 201
 
 * [Introductory HTML and JavaScript](notes/code201/class-01.md)
