@@ -23,6 +23,8 @@ One of my favorite songs, click it.
 
 * [State and Props](notes/code301/code301-02.md)
 
+* [Passing Functions as Props](notes/code301/code301-03.md)
+
 ### Code 201
 
 * [Introductory HTML and JavaScript](notes/code201/class-01.md)
