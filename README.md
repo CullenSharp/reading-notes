@@ -21,6 +21,8 @@ One of my favorite songs, click it.
 
 * [Introduction to React and Components](notes/code301/code301-01.md)
 
+* [State and Props](notes/code301/code301-02.md)
+
 ### Code 201
 
 * [Introductory HTML and JavaScript](notes/code201/class-01.md)
