@@ -25,6 +25,8 @@ One of my favorite songs, click it.
 
 * [Passing Functions as Props](notes/code301/code301-03.md)
 
+* [React and Forms](notes/code301/code301-04.md)
+
 ### Code 201
 
 * [Introductory HTML and JavaScript](notes/code201/class-01.md)
