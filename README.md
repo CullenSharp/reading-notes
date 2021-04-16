@@ -27,6 +27,8 @@ One of my favorite songs, click it.
 
 * [React and Forms](notes/code301/code301-04.md)
 
+* [Putting it all together](notes/code301/code301-05.md)
+
 ### Code 201
 
 * [Introductory HTML and JavaScript](notes/code201/class-01.md)
