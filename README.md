@@ -29,6 +29,10 @@ One of my favorite songs, click it.
 
 * [Putting it all together](notes/code301/code301-05.md)
 
+* [NODE.JS](notes/code301/code301-06.md)
+
+* [REST](notes/code301/code301-07.md)
+
 ### Code 201
 
 * [Introductory HTML and JavaScript](notes/code201/class-01.md)
