@@ -33,6 +33,12 @@ One of my favorite songs, click it.
 
 * [REST](notes/code301/code301-07.md)
 
+* [APIs](notes/code301/code301-08.md)
+
+* 
+
+* [In memory storage](notes/code301/code301-10.md)
+
 ### Code 201
 
 * [Introductory HTML and JavaScript](notes/code201/class-01.md)
