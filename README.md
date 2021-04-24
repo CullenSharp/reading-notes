@@ -35,7 +35,7 @@ One of my favorite songs, click it.
 
 * [APIs](notes/code301/code301-08.md)
 
-* 
+* [Functional Programming](notes/code301/code301-09.md)
 
 * [In memory storage](notes/code301/code301-10.md)
 
