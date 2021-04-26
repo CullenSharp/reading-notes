@@ -39,6 +39,8 @@ One of my favorite songs, click it.
 
 * [In memory storage](notes/code301/code301-10.md)
 
+* [Authentication](notes/code301/code301-11.md)
+
 ### Code 201
 
 * [Introductory HTML and JavaScript](notes/code201/class-01.md)
