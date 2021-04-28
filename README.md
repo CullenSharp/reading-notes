@@ -41,6 +41,8 @@ One of my favorite songs, click it.
 
 * [Authentication](notes/code301/code301-11.md)
 
+* [CRUD](notes/code301/code301-13.md)
+
 ### Code 201
 
 * [Introductory HTML and JavaScript](notes/code201/class-01.md)
