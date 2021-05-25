@@ -17,6 +17,10 @@ One of my favorite songs, click it.
 
 ## Table of Contents
 
+### Off-the-clock
+
+* [ADTs: Stacks and Queues](notes/off_the_clock/OTC-1.md)
+
 ### Code 301
 
 * [Introduction to React and Components](notes/code301/code301-01.md)
@@ -42,6 +46,10 @@ One of my favorite songs, click it.
 * [Authentication](notes/code301/code301-11.md)
 
 * [CRUD](notes/code301/code301-13.md)
+
+* [Diversity & Inclusion in the Tech Industry](notes/code301/code301-14.md)
+
+* [CRUD](notes/code301/code301-15.md)
 
 ### Code 201
 
