@@ -17,6 +17,10 @@ One of my favorite songs, click it.
 
 ## Table of Contents
 
+### Code 401
+
+* [Mindset and the event-loop](notes/code401/code401-0.md)
+
 ### Off-the-clock
 
 * [ADTs: Stacks and Queues](notes/off_the_clock/OTC-1.md)
