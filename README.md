@@ -23,6 +23,8 @@ One of my favorite songs, click it.
 
 * [Node Ecosystem, TDD, CI/CD](notes/code401/code401-01.md)
 
+* [Express](notes/code401/code401-02.md)
+
 ### Off-the-clock
 
 * [ADTs: Stacks and Queues](notes/off_the_clock/OTC-1.md)
