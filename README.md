@@ -4,7 +4,7 @@
 
 ### About me
 
-My name is @CullenSharp2 , welcome to my page 👋👋👋.
+My name is @CullenSharp, welcome to my page 👋👋👋.
 I'm currently enrolled at Codefellows for full-stack web development 🔨. I like funny things that make you think 🤔.
 
 
@@ -23,7 +23,13 @@ One of my favorite songs, click it.
 
 * [Node Ecosystem, TDD, CI/CD](notes/code401/code401-01.md)
 
+* [# Express REST API](notes/code401/code401-03.md)
+
+* [# Bearer Authorization](notes/code401/code401-07.md)
+
 * [Express](notes/code401/code401-02.md)
+
+* [Access Control (ACL)](notes/code401/code401-08.md)
 
 ### Off-the-clock
 
