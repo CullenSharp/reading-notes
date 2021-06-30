@@ -31,6 +31,10 @@ One of my favorite songs, click it.
 
 * [Access Control (ACL)](notes/code401/code401-08.md)
 
+* [Event Driven Applications](notes/code401/code401-11.md)
+
+* [Socket.io](notes/code401/code401-12.md)
+
 ### Off-the-clock
 
 * [ADTs: Stacks and Queues](notes/off_the_clock/OTC-1.md)
