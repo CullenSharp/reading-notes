@@ -7,9 +7,7 @@
 My name is @CullenSharp, welcome to my page 👋👋👋.
 I'm currently enrolled at Codefellows for full-stack web development 🔨. I like funny things that make you think 🤔.
 
-
 [![Burial - Forgive](https://i.ytimg.com/vi/5OVvJOeUdUs/hqdefault.jpg)](https://youtu.be/5OVvJOeUdUs)
-
 
 One of my favorite songs, click it.
 
@@ -23,9 +21,9 @@ One of my favorite songs, click it.
 
 * [Node Ecosystem, TDD, CI/CD](notes/code401/code401-01.md)
 
-* [# Express REST API](notes/code401/code401-03.md)
+* [Express REST API](notes/code401/code401-03.md)
 
-* [# Bearer Authorization](notes/code401/code401-07.md)
+* [Bearer Authorization](notes/code401/code401-07.md)
 
 * [Express](notes/code401/code401-02.md)
 
@@ -34,6 +32,8 @@ One of my favorite songs, click it.
 * [Event Driven Applications](notes/code401/code401-11.md)
 
 * [Socket.io](notes/code401/code401-12.md)
+
+* [Message queues](notes/code401/code401-13.md)
 
 ### Off-the-clock
 
