@@ -1,8 +1,8 @@
 # Hello, World? ❤️
 
-----
+![last seen](https://img.shields.io/github/last-commit/CullenSharp/reading-notes)
 
-### About me
+## About me
 
 My name is @CullenSharp, welcome to my page 👋👋👋.
 I'm currently enrolled at Codefellows for full-stack web development 🔨. I like funny things that make you think 🤔.
@@ -44,6 +44,8 @@ One of my favorite songs, click it.
 ### Off-the-clock
 
 * [ADTs: Stacks and Queues](notes/off_the_clock/OTC-1.md)
+
+* [Build Artifacts](notes/off_the_clock/OTC-2.md)
 
 ### Code 301
 
