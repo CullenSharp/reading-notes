@@ -35,6 +35,12 @@ One of my favorite songs, click it.
 
 * [Message queues](notes/code401/code401-13.md)
 
+* [Event Driven Architecture](notes/code401/code401-14.md)
+
+* [Trees](notes/code401/code401-15.md)
+
+* [AWS](notes/code401/code401-16.md)
+
 ### Off-the-clock
 
 * [ADTs: Stacks and Queues](notes/off_the_clock/OTC-1.md)
