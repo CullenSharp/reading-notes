@@ -4,7 +4,7 @@
 
 ## About me
 
-My name is @CullenSharp, welcome to my page 👋👋👋.
+My name is @CullenSharp, welcome to my page 👋 👋 👋.
 I'm currently enrolled at Codefellows for full-stack web development 🔨. I like funny things that make you think 🤔.
 
 [![Burial - Forgive](https://i.ytimg.com/vi/5OVvJOeUdUs/hqdefault.jpg)](https://youtu.be/5OVvJOeUdUs)
