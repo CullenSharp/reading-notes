@@ -41,6 +41,8 @@ One of my favorite songs, click it.
 
 * [AWS](notes/code401/code401-16.md)
 
+* [AWS](notes/code401/code401-17.md)
+
 ### Off-the-clock
 
 * [ADTs: Stacks and Queues](notes/off_the_clock/OTC-1.md)
