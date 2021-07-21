@@ -51,6 +51,8 @@ One of my favorite songs, click it.
 
 * [useState Hook](notes/code401/code401-21.md)
 
+* [useEffect Hook](notes/code401/code401-22.md)
+
 ### Off-the-clock
 
 * [ADTs: Stacks and Queues](notes/off_the_clock/OTC-1.md)
