@@ -41,7 +41,15 @@ One of my favorite songs, click it.
 
 * [AWS](notes/code401/code401-16.md)
 
-* [AWS](notes/code401/code401-17.md)
+* [S3 and Lambda](notes/code401/code401-17.md)
+
+* [AWS: API, Dynamo and Lambda](notes/code401/code401-18.md)
+
+* [AWS – Events](notes/code401/code401-19.md)
+
+* [Component Based UI](notes/code401/code401-20.md)
+
+* [useState Hook](notes/code401/code401-21.md)
 
 ### Off-the-clock
 
