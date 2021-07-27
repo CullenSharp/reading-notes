@@ -53,6 +53,12 @@ One of my favorite songs, click it.
 
 * [useEffect Hook](notes/code401/code401-22.md)
 
+* [Advanced State with Reducers](notes/code401/code401-23.md)
+
+* [Hash Tables](notes/code401/code401-24.md)
+
+* [Hooks API](notes/code401/code401-25.md)
+
 ### Off-the-clock
 
 * [ADTs: Stacks and Queues](notes/off_the_clock/OTC-1.md)
