@@ -91,7 +91,7 @@ One of my favorite songs, click it.
 
 * [Data Modeling](notes/off_the_clock/data-modeling.md)
 
-* [TypeScript annex](notes/TS/index.md)
+* [TypeScript annex](notes/off_the_clock/TS/index.md)
 
 ### Code 301
 
