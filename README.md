@@ -59,11 +59,39 @@ One of my favorite songs, click it.
 
 * [Hooks API](notes/code401/code401-25.md)
 
+* [Custom Hooks](notes/code401/code401-26.md)
+
+* [Context API](notes/code401/code401-27.md)
+
+* [<\Login> and <\Auth>](notes/code401/code401-28.md)
+
+* [Graphs](notes/code401/code401-29.md)
+
+* [Application State with Redux](notes/code401/code401-30.md)
+
+* [Redux – Combined Reducers](notes/code401/code401-31.md)
+
+* [Redux – Asynchronous Actions](notes/code401/code401-32.md)
+
+* [Redux – Additional Topics](notes/code401/code401-33.md)
+
+* [React Native](notes/code401/code401-34.md)
+
+* [Ethics in Tech](notes/code401/code401-35.md)
+
 ### Off-the-clock
 
 * [ADTs: Stacks and Queues](notes/off_the_clock/OTC-1.md)
 
 * [Build Artifacts](notes/off_the_clock/OTC-2.md)
+
+* [RSA Encryption and JSWK](notes/off_the_clock/RS256-and-HS256.md)
+
+* [Linked Lists](notes/off_the_clock/linked-list.md)
+
+* [Data Modeling](notes/off_the_clock/data-modeling.md)
+
+* [TypeScript annex](notes/TS/index.md)
 
 ### Code 301
 
